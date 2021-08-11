@@ -1,0 +1,6 @@
+Credentials cache: API:480597B0-2307-4961-A69C-32D111045A39
+        Principal: ajordan-@42URDULIZ.COM
+
+  Issued                Expires               Principal
+Jun  8 08:14:16 2021  Jun  8 18:14:16 2021  krbtgt/42URDULIZ.COM@42URDULIZ.COM
+Jun  8 08:14:18 2021  Jun  8 18:14:16 2021  HTTP/student-storage.42urduliz.com@42URDULIZ.COM
