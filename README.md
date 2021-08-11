@@ -4,11 +4,11 @@ This is my coding work developed during my Piscine experience at [42Urduliz](htt
 
 ## 42 overview
 
-	42 is a global education initiative that proposes a new way of learning technology: no teachers,
-	no books, students learning from their fellow students (peer to peer learning), with a
-	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
-	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
-	is the last stage in the selection process for becoming a "cadet" (42's student).
+	42 is a private, nonprofit and tuition-free computer programming school that proposes a new
+	way of learning: no teachers, no books, students learning one from others (peer to peer learning),
+	with a methodology that develops both computing and life skills.
+	The "C Piscine" is a 26-day C programming bootcamp, and the last stage in the selection process
+	for becoming a 42's student.
 
 ## Skills developed at C Piscine
 
@@ -40,8 +40,8 @@ This is my coding work developed during my Piscine experience at [42Urduliz](htt
 
 	# Time management and resiliency
 		The "pisciners" are free to work whenever they want, which demands excellent
-    time management skills and resiliency for not "drowning" amid the massive load
-    of work demanded by the non-stop 26-day program.
+    	time management skills and resiliency for not "drowning" amid the massive load
+    	of work demanded by the non-stop 26-day program.
 
 ## Fulfilled projects
 
