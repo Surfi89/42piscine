@@ -2,6 +2,8 @@
 
 This is my coding work developed during my Piscine experience at [42Urduliz](https://www.42urduliz.com/) School, from 07/Jun/21 to 02/Jul/21.
 
+[![Photo of 42Urduliz candidates](42Urduliz_June2021piscine.jpg)](https://www.42urduliz.com/)
+
 ## 42 overview
 
 	42 is a private, nonprofit and tuition-free computer programming school that proposes a new
