@@ -44,6 +44,13 @@ This is my coding work developed during my Piscine experience at [42Urduliz](htt
 		The "pisciners" are free to work whenever they want, which demands excellent
     	time management skills and resiliency for not "drowning" amid the massive load
     	of work demanded by the non-stop 26-day program.
+	
+------
+
+## :camera: My 42 Piscine Intra Profile
+
+[![ajordan's 42 piscine stats](https://badge42.herokuapp.com/api/stats/ajordan-?cursus=C%20Piscine)]
+
 
 ## Fulfilled projects
 
