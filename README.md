@@ -15,9 +15,9 @@
 </p>
 
 <h3 align="center">
-	<a href="#-about-42">About 42</a>
+	<a href="#about-42">About 42</a>
 	<span> · </span>
-	<a href="#-skills-developed-at-c-piscine">Skills</a>
+	<a href="#skills-developed-at-c-piscine">Skills</a>
 	<span> · </span>
 	<a href="#fulfilled-projects">Projects</a>
 </h3>
