@@ -15,9 +15,9 @@
 </p>
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about">About 42</a>
+	<a href="#-about-42">About 42</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-c-piscine">Skills</a>
+	<a href="#-skills-developed-at-c-piscine">Skills</a>
 	<span> · </span>
 	<a href="#fulfilled-projects">Projects</a>
 </h3>
@@ -28,7 +28,7 @@ This is my coding work developed during my Piscine experience at [42Urduliz](htt
 
 [![Photo of 42Urduliz candidates](42Urduliz_June2021piscine.jpg)](https://www.42urduliz.com/)
 
-## About
+## About 42
 
 	42 is a private, nonprofit and tuition-free computer programming school that proposes a new
 	way of learning: no teachers, no books, students learning one from others (peer to peer learning),
