@@ -1,10 +1,34 @@
-# C Piscine @ 42Urduliz
+<h1 align="center">
+	🧰🏊 C Piscine @ 42 Urduliz
+</h1>
+
+<p align="center">
+	<b><i>MY WORK DEVELOPED DURING C PISCINE AT 42 URDULIZ</i></b><br>
+</p>
+
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/42piscine?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/42piscine?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/42piscine?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/42piscine?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/surfi89/42piscine?color=green" />
+</p>
+
+<h3 align="center">
+	<a href="#%EF%B8%8F-about">About 42</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-skills">Skills</a>
+	<span> · </span>
+	<a href="#-fullfilled">Projects</a>
+</h3>
+
+---
 
 This is my coding work developed during my Piscine experience at [42Urduliz](https://www.42urduliz.com/) School, from 07/Jun/21 to 02/Jul/21.
 
 [![Photo of 42Urduliz candidates](42Urduliz_June2021piscine.jpg)](https://www.42urduliz.com/)
 
-## 42 overview
+## About 42
 
 	42 is a private, nonprofit and tuition-free computer programming school that proposes a new
 	way of learning: no teachers, no books, students learning one from others (peer to peer learning),
