@@ -19,7 +19,7 @@
 	<span> · </span>
 	<a href="#%EF%B8%8F-skills">Skills</a>
 	<span> · </span>
-	<a href="#-fulfilled">Projects</a>
+	<a href="#camera-my-42-piscine-intra-profile">Projects</a>
 </h3>
 
 ---
