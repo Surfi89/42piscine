@@ -17,9 +17,9 @@
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About 42</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-skills">Skills</a>
+	<a href="#%EF%B8%8F-skills-developed-at-c-piscine">Skills</a>
 	<span> · </span>
-	<a href="#camera-my-42-piscine-intra-profile">Projects</a>
+	<a href="#fulfilled-projects">Projects</a>
 </h3>
 
 ---
